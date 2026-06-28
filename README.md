@@ -1,4 +1,4 @@
-# 🙏 नमस्ते | (Hello)<br> 🛕मम नाम प्रणवः भट्ट: | (My Name is Pranava Bhat) 
+# 🙏 नमस्ते | (Hello)<br> 🛕मम नाम प्रणवः भट्ट: | 
 I am currently studying B-Tech in Computer Science [RVU] and <br>BS Degree in Data Science [IIT Madras] 
 
 
